@@ -1,0 +1,11 @@
+.small-board {
+  padding: 5px;
+}
+
+.active {
+  border-color: green;
+}
+
+.inactive {
+  border-color: red;
+}
